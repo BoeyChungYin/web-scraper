@@ -1,3 +1,3 @@
 # Web Scraper
 
-### Web scrape project for learning
+Web scraper project for learning
